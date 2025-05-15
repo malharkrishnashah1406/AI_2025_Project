@@ -143,4 +143,4 @@ One final point.
 The most dangerous aspect of this proposal is, for the first time, we would delegate to computers the decision as to whether to start a war.
 That's dead wrong.
 There wouldn't be time for a President to decide; it would be decided by these remote computers.
-It might be an oil fire, it might be a jet exhaust, the computer
+It might be an oil fire, it might be a jet exhaust, the computer 

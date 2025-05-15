@@ -59,3 +59,4 @@ def register_tokenizer_components():
                                        framework='generic',
                                        tags=['bert'],
                                        namespace='transformers')
+ 

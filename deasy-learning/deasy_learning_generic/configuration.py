@@ -763,3 +763,4 @@ class TaskConfiguration(Configuration):
 
     def get_debug_version(self):
         return self
+ 

@@ -1149,3 +1149,4 @@
 1147,23701,And we ask you for your vote.,422,38_2012,24,24,96546,96576,,"{""O"": 8}",O,And we ask you for your vote.,RYAN,Candidate,TRAIN,11 Oct 2012,2012,Paul D. Ryan,O,5439.96,5441.84,clip_1147
 1148,23702,Thank you.,422,38_2012,25,25,96576,96587,,"{""O"": 3}",O,Thank you.,RYAN,Candidate,TRAIN,11 Oct 2012,2012,Paul D. Ryan,O,5446.48,5446.68,clip_1148
 1149,23703,BIDEN: Thank you.,424,38_2012,0,0,96646,96664,,"{""O"": 5}",O, Thank you.,BIDEN,Candidate,TRAIN,11 Oct 2012,2012,Joseph(Joe) R. Biden,O,5446.48,5446.68,clip_1149
+ 

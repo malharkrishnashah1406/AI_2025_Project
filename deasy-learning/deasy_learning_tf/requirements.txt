@@ -7,4 +7,4 @@ tensorflow-probability==0.11.1
 tokenizers==0.10.2
 tqdm==4.56.0
 transformers==4.6.1
-deasy-learning-generic>=0.1
+deasy-learning-generic>=0.1 

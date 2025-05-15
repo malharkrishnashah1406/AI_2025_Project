@@ -87,3 +87,4 @@ class TFTextFeatures(TFBaseTextFeatures):
 
         feature = TFTextFeatures(text_ids=text_ids, label_id=label_id)
         return feature
+ 

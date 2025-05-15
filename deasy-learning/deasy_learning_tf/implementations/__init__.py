@@ -94,3 +94,4 @@ ProjectRegistry.register_component(class_type=KerasTokenizer,
                                    namespace='default',
                                    framework='tf',
                                    tags=['default', 'text'])
+ 

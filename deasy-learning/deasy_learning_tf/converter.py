@@ -91,3 +91,4 @@ class TFBaseConverter(BaseConverter):
             writer.write(tf_example.SerializeToString())
 
         writer.close()
+ 

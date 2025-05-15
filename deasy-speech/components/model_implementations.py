@@ -874,3 +874,4 @@ class M_UsElecBERT(tf.keras.Model):
         return logits, {
             'raw_predictions': {key: tf.nn.softmax(value) for key, value in logits.items()}
         }
+ 

@@ -10,3 +10,4 @@ class TFBaseTextConverter(TFBaseConverter):
 
         if len(self.children):
             assert ComponentFlag.TOKENIZER in self.children
+ 

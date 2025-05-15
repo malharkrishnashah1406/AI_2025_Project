@@ -192,3 +192,4 @@ class Component(Composable, ABC):
 
     def compute_stats(self):
         return {}
+ 

@@ -23,3 +23,4 @@ class TokenizerConfiguration(Configuration):
         parameters['embedding_model_type'] = self.embedding_model_type
         return parameters
 
+ 

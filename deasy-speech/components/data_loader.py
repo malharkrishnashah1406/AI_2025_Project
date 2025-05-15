@@ -481,3 +481,4 @@ def register_data_loader_components():
                                        flag=ComponentFlag.DATA_LOADER,
                                        framework='generic',
                                        namespace='us_elec')
+ 

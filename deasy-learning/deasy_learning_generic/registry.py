@@ -447,3 +447,4 @@ class ProjectRegistry(object, metaclass=MetaProjectRegistry):
 
         filtered_info = list(filter(lambda element: all(map(lambda f: f(element), filters)), ProjectRegistry._REGISTRY))
         return [(info, ProjectRegistry._REGISTRY[info]) for info in filtered_info]
+ 

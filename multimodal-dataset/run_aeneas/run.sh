@@ -19,4 +19,4 @@ do
     echo $AUDIOFILE
 
     python -m aeneas.tools.execute_task $AUDIOFILE $TEXTFILE 'task_language=en|os_task_file_format=json|is_text_type=plain' $JSONFILE
-done
+done 

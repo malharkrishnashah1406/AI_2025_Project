@@ -11,3 +11,4 @@ class TextExample(Example):
 
     def get_data(self):
         return self.text
+ 

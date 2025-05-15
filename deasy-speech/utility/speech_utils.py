@@ -73,3 +73,4 @@ def normalize_speaker_audio(data):
 
     norm_data = (data - mean[np.newaxis, :]) / std[np.newaxis, :]
     return norm_data
+ 

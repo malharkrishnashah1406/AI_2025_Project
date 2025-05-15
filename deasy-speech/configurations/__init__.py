@@ -50,3 +50,4 @@ try:
     register_simplified_tasks()
 except Exception as e:
     print(f"Warning: Could not register simplified tasks: {str(e)}")
+ 

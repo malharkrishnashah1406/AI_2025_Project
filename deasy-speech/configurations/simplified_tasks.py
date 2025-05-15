@@ -89,3 +89,4 @@ def register_simplified_tasks():
         namespace='us_elec',
         tags=['text_audio', 'calibrated', 'lstm', 'task_type=acd', 'use_audio_features=False']
     )
+ 

@@ -28,3 +28,4 @@ register_evaluation_configurations()
 ProjectRegistry.register_component(class_type=TextProcessor, framework='generic', tags=['default', 'text'],
                                    namespace='default', flag=ComponentFlag.PROCESSOR)
 
+ 

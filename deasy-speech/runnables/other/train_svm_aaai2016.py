@@ -364,4 +364,4 @@ if __name__ == '__main__':
             to_save['ablation text F1'] = test_ablation_text_f1
             to_save['ablation audio F1'] = test_ablation_audio_f1
 
-        save_json(os.path.join(save_base_path, 'benchmark_info.json'), to_save)
+        save_json(os.path.join(save_base_path, 'benchmark_info.json'), to_save) 

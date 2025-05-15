@@ -36,3 +36,4 @@ class TFConverterConfiguration(ConverterConfiguration):
         self.shuffle_amount = shuffle_amount
         self.prefetch_amount = prefetch_amount
         self.reshuffle_each_iteration = reshuffle_each_iteration
+ 

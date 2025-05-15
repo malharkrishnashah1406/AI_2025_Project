@@ -125,3 +125,4 @@ class BaseCallback(Composable):
         Executed before an input batch for prediction has been fed to a model.
         """
         pass
+ 

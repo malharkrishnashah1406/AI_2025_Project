@@ -109,4 +109,4 @@ class Composable(ABC):
                     if len(info) > 100:
                         continue
                 Logger.get_logger(__name__).info(
-                    '[{2}] Field: {0} -- Value: {1}'.format(info_name, info, self.__class__.__name__))
+                    '[{2}] Field: {0} -- Value: {1}'.format(info_name, info, self.__class__.__name__)) 

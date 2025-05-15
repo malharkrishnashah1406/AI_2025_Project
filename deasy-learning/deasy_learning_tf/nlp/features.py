@@ -37,3 +37,4 @@ class TFBaseTextFeatures(BaseTextFeatures):
                     features[key] = create_int_feature(key_values)
 
         return features
+ 

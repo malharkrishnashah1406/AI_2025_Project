@@ -1095,3 +1095,4 @@
 1093,29618,"Tomorrow, Afghanistan will be voting for a president.",162,31_2004,24,24,91479,91533,,"{""Premise"": 9, ""O"": 1}",Premise,"Tomorrow, Afghanistan will be voting for a president.",BUSH,Candidate,VALIDATION,08 Oct 2004,2004,George W. Bush,Premise,5740.84,5743.92,clip_1093
 1094,29619,"In Iraq, we'll be having free elections, and a free society will make this world more peaceful.",162,31_2004,25,25,91533,91629,,"{""Premise"": 9, ""O"": 4, ""Claim"": 8}",Premise,"In Iraq, we'll be having free elections, and a free society will make this world more peaceful.",BUSH,Candidate,VALIDATION,08 Oct 2004,2004,George W. Bush,Mixed,5743.92,5749.4,clip_1094
 1095,29620,God bless.,162,31_2004,26,26,91630,91641,,"{""O"": 3}",O,God bless.,BUSH,Candidate,VALIDATION,08 Oct 2004,2004,George W. Bush,O,5749.4,5751.8,clip_1095
+ 

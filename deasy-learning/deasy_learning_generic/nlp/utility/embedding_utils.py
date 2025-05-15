@@ -77,3 +77,4 @@ def load_embedding_model(model_type: str,
         raise e
 
     return emb_model
+ 

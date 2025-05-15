@@ -36,3 +36,4 @@ def register_framework_helper_configurations():
                                            framework='tf',
                                            tags=['second_gpu', 'eager'],
                                            namespace='default')
+ 

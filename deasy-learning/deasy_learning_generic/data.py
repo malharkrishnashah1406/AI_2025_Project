@@ -37,4 +37,4 @@ class ConvertedData(ABC):
         else:
             load_path = os.path.join(filepath, '{0}_data_converter_wrapper.pickle'.format(suffix))
 
-        return load_pickle(load_path)
+        return load_pickle(load_path) 

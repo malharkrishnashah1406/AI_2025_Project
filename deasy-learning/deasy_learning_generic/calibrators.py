@@ -233,3 +233,4 @@ class HyperOptCalibrator(BaseCalibrator):
             save_pickle(filepath=os.path.join(self.mongo_dir, f'{db_name}.pickle'), data=trials)
 
         return best_params, best_trial
+ 

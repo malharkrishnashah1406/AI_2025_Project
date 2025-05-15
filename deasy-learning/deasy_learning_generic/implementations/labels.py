@@ -44,3 +44,4 @@ class GenerativeLabel(Label):
         tokenized = kwargs['tokenizer'].tokenize(label_value, remove_special_tokens=True)
 
         return tokenized
+ 

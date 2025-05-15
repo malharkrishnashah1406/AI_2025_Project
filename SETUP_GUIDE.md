@@ -127,3 +127,4 @@ If you encounter issues with the dataset generation:
 - Original paper: "Multimodal Argument Mining: A Case Study in Political Debates"
 - Authors: Eleonora Mancini, Federico Ruggeri, Andrea Galassi, and Paolo Torroni
 - Paper link: https://aclanthology.org/2022.argmining-1.15
+ 

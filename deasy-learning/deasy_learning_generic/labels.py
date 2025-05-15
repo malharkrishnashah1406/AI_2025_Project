@@ -79,3 +79,4 @@ class LabelList(ABC):
         label_representations = ['{}'.format(label) for label in self.labels]
         return os.linesep.join(label_representations)
 
+ 

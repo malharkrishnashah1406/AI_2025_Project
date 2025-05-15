@@ -48,3 +48,4 @@ class TFTrainingLogger(CallbackConfiguration):
                                                                              namespace='default',
                                                                              flag=ComponentFlag.CALLBACK,
                                                                              internal_key=ProjectRegistry.COMPONENT_KEY))
+ 

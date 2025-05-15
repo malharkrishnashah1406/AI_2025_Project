@@ -281,3 +281,4 @@ def visualize_training_curves(test_name, task_folder):
         plot_block(axs=axs[1], info_keys=info_metric_names, info=curr_info, best_values=best_values, title='Metrics')
 
     plt.show()
+ 

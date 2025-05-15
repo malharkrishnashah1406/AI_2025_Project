@@ -63,3 +63,4 @@ additional columns:
    trimmed original audio file 
 - `idClip`: the identifier of the audio clip corresponding to the sentence. This `id` is needed to reconstruct the 
   audio-text pairs for each part of the speech
+ 

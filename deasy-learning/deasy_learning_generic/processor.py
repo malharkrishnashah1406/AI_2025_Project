@@ -69,3 +69,4 @@ class DataProcessor(Component):
 
     def wrap_single_item(self, item):
         raise NotImplementedError()
+ 

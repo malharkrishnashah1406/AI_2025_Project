@@ -12,3 +12,4 @@ if __name__ == '__main__':
 
     # List registered components and configurations
     list_registrations(namespaces=['arg_aaai', 'm-arg', 'us_elec', 'transformers', 'default'])
+ 

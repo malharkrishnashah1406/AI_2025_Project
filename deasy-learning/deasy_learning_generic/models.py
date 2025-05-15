@@ -363,3 +363,4 @@ class GenerativeNetwork(BaseNetwork):
 
     def generate(self, x):
         raise NotImplementedError()
+ 

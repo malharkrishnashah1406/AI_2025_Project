@@ -77,3 +77,4 @@ class AntiMatchFilter(MatchFilter):
         assert type(value) in [list, set], f"MatchFilter only supports list or set attributes. Got {type(value)}"
 
         return set(self.reference_value).intersection(set(value)) == set()
+ 

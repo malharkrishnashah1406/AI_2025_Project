@@ -542,3 +542,4 @@ class TFGenerativeNetwork(TFNetwork, GenerativeNetwork):
         generated = {self.label_list[0].name: generated}
 
         return generated
+ 

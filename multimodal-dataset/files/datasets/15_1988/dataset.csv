@@ -761,3 +761,4 @@
 26906,And I will be a good president.,172,15_1988,21,21,86204,86236,,"{""O"": 2, ""Claim"": 6}",Claim,And I will be a good president.,BUSH,Candidate,TEST,13 Oct 1988,1988,George H. W. Bush,Claim,5259.4,5261.16,NOT_FOUND
 26907,"Working together, we can do wonderful things for the United States and the Free World.",172,15_1988,22,22,86236,86323,,"{""Premise"": 16, ""O"": 1}",Premise,"Working together, we can do wonderful things for the United States and the Free World.",BUSH,Candidate,TEST,13 Oct 1988,1988,George H. W. Bush,Premise,5261.16,5266.28,NOT_FOUND
 26908,"Thank you very, very much.",172,15_1988,23,23,86323,86350,,"{""O"": 7}",O,"Thank you very, very much.",BUSH,Candidate,TEST,13 Oct 1988,1988,George H. W. Bush,O,5266.28,5267.8,NOT_FOUND
+ 

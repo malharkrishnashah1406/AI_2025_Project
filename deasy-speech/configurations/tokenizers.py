@@ -29,4 +29,4 @@ def register_tokenizer_configurations():
     ProjectRegistry.register_configuration(configuration=BertTokenizerConfiguration.get_default(),
                                            framework='generic',
                                            tags=['bert', 'default'],
-                                           namespace='transformers')
+                                           namespace='transformers') 

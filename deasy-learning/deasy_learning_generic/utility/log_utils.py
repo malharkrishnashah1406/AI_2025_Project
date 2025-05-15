@@ -122,3 +122,4 @@ class Logger(object):
             cls._instance = cls._build_logger(name)
             cls._instance.info(f'[{cls.__name__}] Retrieving new logger: {cls._log_path}')
         return cls._instance
+ 

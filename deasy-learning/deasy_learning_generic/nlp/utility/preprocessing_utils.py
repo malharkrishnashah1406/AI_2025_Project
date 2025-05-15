@@ -113,3 +113,4 @@ def filter_line(line, function_names=None, disable_filtering=False):
 
     functions = [filter_methods[name] for name in function_names]
     return reduce(lambda r, f: f(r), functions, line.strip().lower())
+ 

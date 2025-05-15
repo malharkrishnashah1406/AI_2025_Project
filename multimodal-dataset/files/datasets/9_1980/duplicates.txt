@@ -1,3 +1,4 @@
 Yes. : 144
 Thank you. : 2
 Next Tuesday is Election Day. : 2
+ 

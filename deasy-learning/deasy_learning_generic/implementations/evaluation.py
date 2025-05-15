@@ -8,3 +8,4 @@ def register_evaluation_configurations():
                                            namespace='default',
                                            tags=['debug'],
                                            framework='generic')
+ 

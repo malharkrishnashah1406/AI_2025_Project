@@ -35,3 +35,4 @@ class MaskF1(Metric):
         y_true = np.array(y_true) if type(y_true) != np.ndarray else y_true
 
         return f1_score(y_true=y_true, y_pred=y_pred, **self.metric_arguments)
+ 

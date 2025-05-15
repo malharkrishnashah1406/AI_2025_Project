@@ -79,3 +79,4 @@ def prettify_statistics(statistics, ignore_non_floats=False):
     result = re.sub(r"\s+$", "", result)
 
     return result
+ 

@@ -54,3 +54,4 @@ class TFTextConverterConfiguration(TFConverterConfiguration):
         parameters = super(TFTextConverterConfiguration, self).get_serialization_parameters()
         parameters['max_tokens_limit'] = self.max_tokens_limit
         return parameters
+ 

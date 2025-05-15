@@ -501,3 +501,4 @@
 499,27408,That's what you have elections for.,103,20_1992,6,6,50893,50929,,"{""Premise"": 7, ""O"": 1}",Premise,That's what you have elections for.,CLINTON,Candidate,TEST,15 Oct 1992,1992,William(Bill) J. Clinton,Premise,2488.28,2489.32,clip_499
 500,27409,"If people would say, well, he got elected to do this and then the Congress says, okay, I'm going to do it.",103,20_1992,7,7,50929,51036,,"{""Claim"": 27, ""O"": 1}",Claim,"If people would say, well, he got elected to do this and then the Congress says, okay, I'm going to do it.",CLINTON,Candidate,TEST,15 Oct 1992,1992,William(Bill) J. Clinton,Claim,2489.32,2495.48,clip_500
 501,27410,That's what the election was about.,103,20_1992,8,8,51036,51072,,"{""Premise"": 7, ""O"": 1}",Premise,That's what the election was about.,CLINTON,Candidate,TEST,15 Oct 1992,1992,William(Bill) J. Clinton,Premise,2495.48,2497.16,clip_501
+ 

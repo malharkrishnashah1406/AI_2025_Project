@@ -355,3 +355,4 @@ def register_processor_components():
                                        flag=ComponentFlag.PROCESSOR,
                                        framework='generic',
                                        namespace='us_elec')
+ 

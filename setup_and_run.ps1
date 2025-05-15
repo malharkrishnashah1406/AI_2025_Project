@@ -65,3 +65,4 @@ Write-Host "2. For running full experiments, use the following commands:"
 Write-Host "   python deasy-speech/runnables/task_train.py with appropriate parameters"
 Write-Host "   python deasy-speech/runnables/task_forward.py for inference"
 Write-Host "=========================================================="
+ 

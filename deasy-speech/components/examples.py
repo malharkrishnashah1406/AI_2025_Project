@@ -55,4 +55,4 @@ class UsElecExample(Example):
             f"and speech_mfccs={self.speech_mfccs}."
 
     def get_data(self):
-        return self.speech_text
+        return self.speech_text 

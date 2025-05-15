@@ -9,3 +9,4 @@ Uh-uh. : 4
 Yes, sir. : 2
 Yes. : 12
 Thank you very much. : 4
+ 

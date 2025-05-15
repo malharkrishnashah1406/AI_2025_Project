@@ -39,3 +39,4 @@ class BaseConverter(Component):
 
     def training_preparation(self, examples, label_list):
         raise NotImplementedError()
+ 

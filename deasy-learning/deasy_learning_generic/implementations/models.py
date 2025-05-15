@@ -104,3 +104,4 @@ class SklearnClassificationModel(SklearnModel):
     def prepare_for_training(self, train_data):
         self.compute_output_weights(y_train=train_data.get_labels(),
                                     label_list=self.label_list)
+ 

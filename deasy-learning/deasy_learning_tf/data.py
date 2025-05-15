@@ -65,3 +65,4 @@ class TFConvertedData(ConvertedData):
 
     def get_training_iterator(self):
         return iter(self.training_iterator())
+ 

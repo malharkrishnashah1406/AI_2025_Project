@@ -51,3 +51,4 @@ class TFHelper(FrameworkHelper):
 
     def clear_session(self):
         K.clear_session()
+ 

@@ -49,4 +49,4 @@ class NumericInfo(object):
 
     def show(self):
         for op_name, op_value in self.infos.items():
-            Logger.get_logger(__name__).info(f'[{self.name}] Field: {op_name} -- Value: {op_value}')
+            Logger.get_logger(__name__).info(f'[{self.name}] Field: {op_name} -- Value: {op_value}') 

@@ -18,4 +18,4 @@ ProjectRegistry.register_component(class_type=TFHelper,
                                    framework='tf')
 
 
-from deasy_learning_tf import implementations
+from deasy_learning_tf import implementations 

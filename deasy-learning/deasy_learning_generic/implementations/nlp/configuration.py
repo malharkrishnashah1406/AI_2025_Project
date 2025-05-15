@@ -28,3 +28,4 @@ class TextProcessorConfiguration(ProcessorConfiguration):
         parameters['disable_filtering'] = self.disable_filtering
         parameters['retrieve_label'] = self.retrieve_label
         return parameters
+ 

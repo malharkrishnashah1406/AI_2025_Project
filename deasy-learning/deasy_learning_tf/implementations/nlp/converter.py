@@ -30,3 +30,4 @@ class TFTextConverter(TFBaseTextConverter):
 
         self.label_list = label_list
         self.max_seq_length = min(max_seq_length, self.max_tokens_limit)
+ 
