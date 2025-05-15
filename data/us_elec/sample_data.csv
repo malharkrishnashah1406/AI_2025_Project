@@ -1,0 +1,14 @@
+Document,Turn,Speech,Component,ArgumentativeType,NewBegin,NewEnd,idClip
+30_2004,1,"Good evening from the University of Miami Convocation Center in Coral Gables, Florida. I'm Jim Lehrer of The NewsHour on PBS, and I welcome you to the first of the 2004 presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee.",NonArg,NonArg,10.5,30.2,clip_1
+30_2004,2,"These debates are sponsored by the Commission on Presidential Debates. Tonight's will last 90 minutes, following detailed rules of engagement worked out by representatives of the candidates. I'll enforce their rules on timing. The umbrella topic is foreign policy and homeland security, but the specific subjects were chosen by me, the questions were composed by me, the candidates have not been told what they are, nor has anyone else.",NonArg,NonArg,30.5,50.1,clip_2
+30_2004,3,"For each question there can only be a two-minute response, a 90-second rebuttal and, at my discretion, a discussion extension of one minute.",NonArg,NonArg,50.5,60.3,clip_3
+30_2004,4,"The candidates under their rules may not question each other directly. There will be two-minute closing statements, but no opening statements.",NonArg,NonArg,60.5,70.2,clip_4
+30_2004,5,"There is an audience here in the hall, but they will remain absolutely silent for the next 90 minutes, except for now, when they join me in welcoming President Bush and Senator Kerry.",NonArg,NonArg,70.5,85.1,clip_5
+30_2004,6,"Good evening, President, Senator Kerry. As determined by a coin toss, the first question goes to you, Senator Kerry. You have two minutes.",NonArg,NonArg,85.5,95.2,clip_6
+30_2004,7,"Do you believe you could do a better job than President Bush in preventing another 9/11-type terrorist attack on the United States?",NonArg,NonArg,95.5,105.1,clip_7
+30_2004,8,"Yes, I do.",Claim,Claim,105.5,108.2,clip_8
+30_2004,9,"But before I answer further, let me thank you for moderating. I want to thank the University of Miami for hosting us. And I know the president will join me in also thanking all the fighting men and women of our country for their service.",NonArg,NonArg,108.5,120.3,clip_9
+30_2004,10,"I can make America safer than President Bush has made us.",Claim,Claim,120.5,125.2,clip_10
+30_2004,11,"The right war was Osama bin Laden and Afghanistan.",Premise,Premise,125.5,130.1,clip_11
+30_2004,12,"That was the right place.",Premise,Premise,130.5,133.1,clip_12
+30_2004,13,"And the right time was Tora Bora, when we had him cornered in the mountains.",Premise,Premise,133.5,138.2,clip_13

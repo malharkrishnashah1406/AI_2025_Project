@@ -1,0 +1,21 @@
+{
+  "dataset": "ukdebates",
+  "version": "1.0",
+  "samples": [
+    {
+      "id": "sample1",
+      "text": "I believe we should increase funding for education.",
+      "label": "claim"
+    },
+    {
+      "id": "sample2",
+      "text": "Because better education leads to economic growth.",
+      "label": "premise"
+    },
+    {
+      "id": "sample3",
+      "text": "The research shows that countries with higher education spending have stronger economies.",
+      "label": "premise"
+    }
+  ]
+}

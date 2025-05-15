@@ -9,6 +9,12 @@ from configurations.tokenizers import register_tokenizer_configurations
 from configurations.callbacks import register_callback_configurations
 from configurations.calibrators import register_calibrator_configurations
 
+# Import simplified tasks for testing
+try:
+    from configurations.simplified_tasks import register_simplified_tasks
+except ImportError:
+    print("Warning: Could not import simplified tasks")
+
 # Data Loader
 register_data_loader_configurations()
 
@@ -38,3 +44,9 @@ register_calibrator_configurations()
 
 # Task
 register_task_configurations()
+
+# Simplified Tasks for Testing
+try:
+    register_simplified_tasks()
+except Exception as e:
+    print(f"Warning: Could not register simplified tasks: {str(e)}")

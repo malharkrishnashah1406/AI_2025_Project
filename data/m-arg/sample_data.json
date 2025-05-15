@@ -1,0 +1,24 @@
+{
+  "dataset": "m-arg",
+  "version": "1.0",
+  "samples": [
+    {
+      "id": "sample1",
+      "text": "I want to emphasize that our policy will create more jobs.",
+      "audio_path": "sample1.wav",
+      "label": "claim"
+    },
+    {
+      "id": "sample2",
+      "text": "The statistics from the last quarter clearly show this trend.",
+      "audio_path": "sample2.wav",
+      "label": "premise"
+    },
+    {
+      "id": "sample3",
+      "text": "Previous administrations have failed to achieve similar results.",
+      "audio_path": "sample3.wav",
+      "label": "premise"
+    }
+  ]
+}
